@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Hotel management System**
 
-- 🌱 I’m currently learning **Sevrlet with JSP ,Spring Boot**
+- 🌱 I’m currently learning **Spring Framework ,Spring Boot**
 
 - 📫 How to reach me **manishsingh.ms339@gmail.com**
 
